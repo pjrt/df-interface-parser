@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Lib (
+module DF.Bindings.Parser (
     keyKindParser
   , keyBindParser
   , bindParser
